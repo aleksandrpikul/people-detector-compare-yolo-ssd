@@ -12,14 +12,10 @@
 
 ---
 
-## YOLOv8 (видео)
+## Результаты (видео)
 
-<video src="crowd_yolov8_test.mp4" controls width="900"></video>
-
-## SSD MobileNet (видео)
-
-<video src="crowd_ssd_test.mp4" controls width="900"></video>
-
+- **YOLOv8 результат:** [crowd_yolov8.mp4](crowd_yolov8_test.mp4)
+- **SSD MobileNet результат:** [crowd_ssd.mp4](crowd_ssd_test.mp4)
 
 ---
 
