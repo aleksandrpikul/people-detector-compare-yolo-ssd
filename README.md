@@ -12,6 +12,17 @@
 
 ---
 
+## YOLOv8 (видео)
+
+<video src="crowd_yolov8_test.mp4" controls width="900"></video>
+
+## SSD MobileNet (видео)
+
+<video src="crowd_ssd_test.mp4" controls width="900"></video>
+
+
+---
+
 ## Содержимое репозитория
 
 - `src/` — исходный код
